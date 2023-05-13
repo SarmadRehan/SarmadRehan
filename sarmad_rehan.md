@@ -3,19 +3,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Application+Developer;Transforming+Ideas+into+Mobile+Reality;Android%20|%20Flutter%20%20Enthusiast;Innovate.%20Create.%20Mobilize.;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Mobile Application Developer and a graduate in Software Engineering. I have a deep passion for coding, developing innovative solutions, and constantly experimenting with new ideas. I thrive on challenges and eagerly embrace opportunities to learn new skills. Connecting with new people, exchanging ideas, and fostering a culture of knowledge-sharing and positivity are endeavors that I truly enjoy.</h4>
+<!-- <h4 align="center">I am a Mobile Application Developer and a graduate in Software Engineering. I have a deep passion for coding, developing innovative solutions, and constantly experimenting with new ideas. I thrive on challenges and eagerly embrace opportunities to learn new skills. Connecting with new people, exchanging ideas, and fostering a culture of knowledge-sharing and positivity are endeavors that I truly enjoy.</h4> -->
+<h4 align="center" style="font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5; text-align: center; margin: 20px auto; padding: 10px; max-width: 600px; background-color: #f2f2f2; border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">I am a Mobile Application Developer and a graduate in Software Engineering. I have a deep passion for coding, developing innovative solutions, and constantly experimenting with new ideas. I thrive on challenges and eagerly embrace opportunities to learn new skills. Connecting with new people, exchanging ideas, and fostering a culture of knowledge-sharing and positivity are endeavors that I truly enjoy.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SarmadRehan&label=Profile%20views&color=0e75b6&style=plastic" alt="SarmadRehan"/> </p>
 
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@SarmadRehan](github.com/SarmadRehan)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 💬 Ask me about **Mobile Designs and Development**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
@@ -209,10 +211,6 @@
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
@@ -224,28 +222,25 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://dev.to/example" target="_blank">
+    <a  href="https://dev.to/sarmadrehan" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
     </a>
     <a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
+    </a> 
   </div>
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://linkedin.com/in/sarmad-rehan" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="https://twitter.com/Sarmad_Rehan_" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
-    <a href="https://dribbble.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
+    <a href="https://instagram.com/sarmad_rehan_" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
   </div>
-  <div>
+<!--   <div>
     <a  href="https://www.codechef.com/users/example" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
@@ -255,16 +250,16 @@
     <a href="https://www.leetcode.com/example" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
-  </div>
+  </div> -->
 </div>
 
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/example" target="_blank">
+  <a  href="https://t.me/sarmad_rehan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:sarmadrehan91@gmail.com.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
@@ -274,18 +269,15 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=SarmadRehan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SarmadRehan)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SarmadRehan&theme=material-palenight)](https://github.com/SarmadRehan)
 </div>
 
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/SarmadRehan/SarmadRehan/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
-Last Edited on: 09/09/2021
