@@ -8,15 +8,16 @@
 <hr/>
 <h4 align="center" style="font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5; text-align: center; margin: 20px auto; padding: 10px; max-width: 600px; background-color: #f2f2f2; border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">I am a Mobile Application Developer and a graduate in Software Engineering. I have a deep passion for coding, developing innovative solutions, and constantly experimenting with new ideas. I thrive on challenges and eagerly embrace opportunities to learn new skills. Connecting with new people, exchanging ideas, and fostering a culture of knowledge-sharing and positivity are endeavors that I truly enjoy.</h4>
 <br>
-<!--Profile Views-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SarmadRehan&label=Profile%20views&color=0e75b6&style=plastic" alt="SarmadRehan"/> </p>
+<!--Profile Views & Followers-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SarmadRehan&label=Profile%20views&color=0e75b6&style=plastic" alt="SarmadRehan"/> 
+<img src= "https://img.shields.io/github/followers/SarmadRehan?label=Follow&style=social)](https://github.com/SarmadRehan)" alt="follow me" /></p>
+<br/>
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 I’m looking to collaborate on **Flutter Framework**
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **Backend Development in GO**
 
 - 👨‍💻 All of my projects are available [@SarmadRehan](github.com/SarmadRehan)
 
@@ -28,14 +29,10 @@
 ---
 
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="left"><u><b>🛠️ My Skills  </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px style="margin: 0 -5px;"></h2>
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
-
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/Dart-0075BA.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="dart"/>
@@ -58,24 +55,24 @@
   </a>
 </p>
 
-<h3 align="center">Framework</h3>
-<p align="center">
+<h3 align="left">Framework</h3>
+<p align="left">
       <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02539A.svg?style=for-the-badge&logo=flutter&logoColor=white"
       alt="flutter"/>
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
   <a href="https://go.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/Golang-00AED8.svg?style=for-the-badge&logo=go&logoColor=white"
       alt="golang"/> 
   </a>
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3 align="left">Database</h3>
+<p align="left">
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
@@ -86,8 +83,8 @@
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
+<h3 align="left">Cloud & Hosting</h3>
+<p align="left">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-F5820D.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
   </a>
@@ -97,8 +94,8 @@
   </a> 
 </p>
 
-<h3 align="center">Testing</h3>
-<p align="center"> 
+<h3 align="left">Testing</h3>
+<p align="left"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium" /> 
@@ -108,8 +105,8 @@
   </a>
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
+<h3 align="left">Version Control & CI/CD</h3>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -126,8 +123,8 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
+<h3 align="left">Preferred IDEs  & Tools</h3>
+<p align="left"> 
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="eclipse IDE"/> 
   </a>
@@ -147,9 +144,9 @@
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 
-<div style="margin-top:10px" align="center">
+<div style="margin-top:10px" align="left">
   <div>
     <a  href="https://dev.to/sarmadrehan" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
@@ -169,44 +166,34 @@
       <img src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
   </div>
-<!--   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
-    </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-    </a>
-  </div> -->
 </div>
 
-<h3 align="center">Reach me</h3>
+<h3 align="left">Reach me</h3>
 
-<p align="center">
+<p align="left">
   <a  href="https://t.me/sarmad_rehan" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="sarmad_rehan"/>
   </a>
   <a href="mailto:sarmadrehan91@gmail.com.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Gmail-BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="sarmadrehan91@gmail.com"/>
   </a>
 </p>
 
 ----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">📈 GitHub Stats:</h2> 
+<div align="left">
+<h2 align="left" style="margin: 5px 10px;">📈 GitHub Stats:</h2> 
 
 
 ### 💻 Profile Stats
-[![](https://github-readme-stats.vercel.app/api?username=SarmadRehan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SarmadRehan)
+[![](https://github-readme-stats.vercel.app/api?username=SarmadRehan&show_icons=true&theme=tokyonight&locale=en)](https://github.com/SarmadRehan)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SarmadRehan&theme=material-palenight)](https://github.com/SarmadRehan)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmadRehan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ### 📊 Contribution Stats
 
-<img alt="Sarmad's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SarmadRehan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Sarmad's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SarmadRehan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF"/>
 
 
 ------
