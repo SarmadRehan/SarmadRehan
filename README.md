@@ -191,9 +191,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmadRehan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
-### 📊 Contribution Stats
+<!--  ### 📊 Contribution Stats
 
 <img alt="Sarmad's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SarmadRehan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF"/>
-
+ -->
 
 ------
