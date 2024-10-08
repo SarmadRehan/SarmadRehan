@@ -45,14 +45,14 @@
     <img src="https://img.shields.io/badge/Kotlin-C520AA.svg?style=for-the-badge&logo=kotlin&logoColor=white"
       alt="kotlin"/> 
   </a>
-  <a href="https://go.dev/" target="_blank"> 
+<!--   <a href="https://go.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/Golang-00AED8.svg?style=for-the-badge&logo=go&logoColor=white"
       alt="golang"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Framework</h3>
@@ -63,13 +63,13 @@
   </a>
 </p>
 
-<h3 align="left">Backend</h3>
-<p align="left">
+<!--<h3 align="left">Backend</h3>
+ <p align="left">
   <a href="https://go.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/Golang-00AED8.svg?style=for-the-badge&logo=go&logoColor=white"
       alt="golang"/> 
-  </a>
-</p>
+  </a> 
+</p>-->
 
 <h3 align="left">Database</h3>
 <p align="left">
@@ -77,10 +77,10 @@
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
+<!--   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
-  </a> 
+  </a>  -->
 </p>
 
 <h3 align="left">Cloud & Hosting</h3>
@@ -88,13 +88,13 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-F5820D.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
   </a>
-  <a href="https://heroku.com" target="_blank"> 
+<!--   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
+      alt="heroku"/>
   </a> 
 </p>
 
-<h3 align="left">Testing</h3>
+<!-- <h3 align="left">Testing</h3>
 <p align="left"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
@@ -103,7 +103,7 @@
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a>
-</p>
+</p>   -->
 
 <h3 align="left">Version Control & CI/CD</h3>
 <p align="left">
@@ -114,13 +114,13 @@
   <a href="https://github.com/SarmadRehan" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a href="https://circleci.com" target="_blank">
+<!--     <a href="https://circleci.com" target="_blank">
     <img src="https://img.shields.io/badge/CircleCI-343434.svg?style=for-the-badge&logo=circleci&logoColor=white"
       alt="docker"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Preferred IDEs  & Tools</h3>
@@ -174,7 +174,7 @@
   <a  href="https://t.me/sarmad_rehan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="sarmad_rehan"/>
   </a>
-  <a href="mailto:sarmadrehan91@gmail.com.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:sarmad.rehann@gmail.com.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="sarmadrehan91@gmail.com"/>
   </a>
 </p>
